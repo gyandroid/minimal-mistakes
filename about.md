@@ -19,5 +19,5 @@ I'm  grad student at the School of Computing at [Clemson University](http://clem
 
 ## CV:
 
-<a markdown="0" href="{{ site.url }}/resume.pdf" class="btn">CV</a>
+<a href="{{ site.url }}/resume.pdf" target="_blank">CV</a>
 
